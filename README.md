@@ -29,13 +29,12 @@ Loan data set contains the complete loan data for all loans issued through the t
 <li>The default rate is highest for loans acquired for <strong>small businesses</strong> and lowest for those taken for <strong>weddings</strong>. However, upon analyzing exclusively the 'Charged-Off' data, the default rate is highest for loans acquired for <strong>Debt Consolidation</strong> and lowest for those taken for <strong>Renewable energy</strong>.</li>
 <li><strong>loan_amnt</strong>, <strong>int_rate</strong> and <strong>annual_inc</strong> are related together ie have <strong>positive correlation</strong>.</li>
 <li>Increasing debt to income ratio the default rate also increases upto range <strong>20-25</strong> but drops after that and most drop range is at <strong>25-30</strong>. This drop might be explained with a reason that people with very high debt to income ratio dont want to increase their debt further so they mostly pay off thier loans.</li>
-<li>Majority of individuals who defaulted on their payments belong to job <strong>grade G</strong>.</li>
-<li>However, Upon examining only the 'Charged-Off' data, we found that a small proportion of individuals who defaulted on their payments belong to job <strong>grade G</strong>.</li>
-<li>The above chart shows that the majority of individuals who defaulted on their payments belong to state <strong>NE</strong>.</li>
-<li>The chart above indicates that most people who defaulted took out larger loans in the state of CA.</li>
-<li>The chart above shows that most people who failed to make payments have more than a <strong>10+ years</strong> of experience.</li>
-<li>The above chart shows that a majority of defaulted loans were approved in the month of <strong>December</strong>.</li>
-<li> The above chart shows that a majority of defaulted loans were approved in the year of <strong>2011</strong>.</li>
+<li>Majority of individuals who defaulted on their payments belong to job <strong>grade G</strong>. However, Upon examining only the 'Charged-Off' data, we found that a small proportion of individuals who defaulted on their payments belong to job <strong>grade G</strong>.</li>
+<li>Majority of individuals who defaulted on their payments belong to state <strong>NE</strong>.</li>
+<li>Majority of individuals who defaulted took out larger loans in the state of CA.</li>
+<li>Majority of individuals who failed to make payments have more than a <strong>10+ years</strong> of experience.</li>
+<li>Majority of defaulted loans were approved in the month of <strong>December</strong>.</li>
+<li>Majority of defaulted loans were approved in the year of <strong>2011</strong>.</li>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
