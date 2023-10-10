@@ -19,27 +19,29 @@ Loan data set contains the complete loan data for all loans issued through the t
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-<li>Majority of loans fall within the range of <strong>6000 to 18000</strong>.</li>
-<li>Significant portion of defaulters opted for a <strong>36 months</strong> loan term.</li>
-<li>Majority of individuals who defaulted on their loans had taken loans with interest rates ranging from <strong>10-15%</strong>.</li>
-<li>Majority of individuals who default on payments have an annual income ranging from <strong>40000 to 70000</strong>.</li>
-<li>Majority of individuals who have defaulted on their payments reside in <strong>rented</strong> accommodations.</li>
-<li>Majority of individuals who defaulted on their loans used the funds for <strong>debt consolidation</strong> while the fewest number of people used the money for <strong>renewable energy</strong> purposes.</li>
-<li>Majority of loans were allocated for <strong>Small Business</strong> purposes, while the lowest loan amounts were provided for <strong>Moving</strong> purposes.</li>
+<li><strong>83.1%</strong> individuals have successfully repaid their loans, <strong>2.76%</strong> are current loans and <strong>14.2%</strong> loans have been declared as charged off.</li>
+<li>Majority of loans fall within the income range of <strong>40000 to 80000</strong>.</li>
+<li>As income rises, the rate of loan defaults decreases.</li>
+<li>Significant portion of defaulters opted for a <strong>60 months</strong> loan term. But when we studied only <strong>'Charged-Off'</strong> data then found that a significant portion of defaulters opted for a <strong>36 months</strong> loan term.</li
+<li>There is no evident connection between owning a home and the rate of defaults on loans. But when we studied only <strong>'Charged-Off'</strong> data then found that a significant portion of individuals who have defaulted on their payments reside in <strong>rented</strong> accommodations.</li>
+<li>The default rate is directly related to the interest rate. In other words, most individuals who failed to repay their loans had borrowed money at interest rates exceeding 20%. However, upon analyzing exclusively the <strong>'Charged-Off'</strong> data, we discovered that a notable number of people who failed to meet their payment obligations had taken out loans with a ratio ranging from <strong>10-15%</strong>.</li>
+<li>Loans with installment amounts between <strong>500 and 750</strong> exhibit the highest rate of defaults. However, this information doesn't provide any useful insights on whether to approve or deny a loan application.</li>
+<li>The default rate is highest for loans acquired for <strong>small businesses</strong> and lowest for those taken for <strong>weddings</strong>. However, upon analyzing exclusively the 'Charged-Off' data, the default rate is highest for loans acquired for <strong>Debt Consolidation</strong> and lowest for those taken for <strong>Renewable energy</strong>.</li>
 <li><strong>loan_amnt</strong>, <strong>int_rate</strong> and <strong>annual_inc</strong> are related together ie have <strong>positive correlation</strong>.</li>
-<li>Increasing debt to income ratio the default rate also increases upto range <strong>10-15</strong> but drops after that and most drop range is at <strong>25-30</strong>. This drop might be explained with a reason that people with very high debt to income ratio dont want to increase their debt further so they mostly pay off thier loans.</li>
-<li>Majority of individuals who defaulted on their payments belong to job <strong>grade B</strong>.</li>
-<li>Majority of defaulters are residents of the state <strong>CA</strong>.</li>
-<li>Majority of defaulted loans were approved in the state of <strong>CA</strong>.</li>
-<li>Majority of individuals who defaulted on their payments had  <strong>10+ years</strong> of work experience.</li>
-<li>Majority of defaulted loans were approved in the month of <strong>December</strong>.</li>
-<li>Majority of loans given to defaulters were approved in the year <strong>2011</strong>.</li>
+<li>Increasing debt to income ratio the default rate also increases upto range <strong>20-25</strong> but drops after that and most drop range is at <strong>25-30</strong>. This drop might be explained with a reason that people with very high debt to income ratio dont want to increase their debt further so they mostly pay off thier loans.</li>
+<li>Majority of individuals who defaulted on their payments belong to job <strong>grade G</strong>.</li>
+<li>However, Upon examining only the 'Charged-Off' data, we found that a small proportion of individuals who defaulted on their payments belong to job <strong>grade G</strong>.</li>
+<li>The above chart shows that the majority of individuals who defaulted on their payments belong to state <strong>NE</strong>.</li>
+<li>The chart above indicates that most people who defaulted took out larger loans in the state of CA.</li>
+<li>The chart above shows that most people who failed to make payments have more than a <strong>10+ years</strong> of experience.</li>
+<li>The above chart shows that a majority of defaulted loans were approved in the month of <strong>December</strong>.</li>
+<li> The above chart shows that a majority of defaulted loans were approved in the year of <strong>2011</strong>.</li>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-<li>ython</li>
+<li>Python</li>
 <li>Numpy</li>
 <li>Pandas</li>
 <li>Matplotlib</li>
