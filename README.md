@@ -50,7 +50,7 @@ Loan data set contains the complete loan data for all loans issued through the t
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-<p>"We want to express my heartfelt gratitude to the teachers and peers at Upgrad/IIITB for their consistently clear and informative sessions, as well as for patiently addressing our queries every day. I also extend my appreciation to the entire Upgrad team for providing us with this incredible learning platform."</p>
+<p>"We want to express our heartfelt gratitude to the teachers and peers at Upgrad/IIITB for their consistently clear and informative sessions, as well as for patiently addressing our queries every day. I also extend my appreciation to the entire Upgrad team for providing us with this incredible learning platform."</p>
 
 
 ## Contact
